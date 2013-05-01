@@ -1,3 +1,3 @@
 DNASE
 =====
-DNA sequence Compression Algorithm
+DNA Sequence Compression Algorithm
