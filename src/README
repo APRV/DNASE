@@ -1,0 +1,6 @@
+Compression/Decompression Framework
+NOTE: Only Compression is implemented for DNASE for testing purposes, since decompression is trivial
+
+Example Usage:
+
+./ComPy.py -c -a DNASE <input_file>
